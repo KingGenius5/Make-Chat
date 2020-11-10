@@ -1,0 +1,25 @@
+{
+  "name": "make-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingGenius5/Make-Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingGenius5/Make-Chat/issues"
+  },
+  "homepage": "https://github.com/KingGenius5/Make-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mongoose": "^5.10.13",
+    "socket.io": "^3.0.1"
+  }
+}
